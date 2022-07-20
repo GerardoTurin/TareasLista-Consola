@@ -9,6 +9,10 @@ Para la creacion de la misma; utilicé los siguientes paquetes:
 "inquirer": "^9.0.1",
 "uuid": "^8.3.2" 
 
+# Iniciar App:
+
+npm run start
+
 
 ```
 =========================
